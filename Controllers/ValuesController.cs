@@ -32,6 +32,7 @@ namespace Dockersampleconfig.Controllers
             l.Add("CTS Trial 14566");
             l.Add("FIS Data Modified");
             l.Add("CTS ID12 Data Modified");
+            l.Add("CMS Data added");
             l.Add("FIS Data Newly Modified");
             l.Add("Third Data Integration");
             l.Add("CDE12 data added");
