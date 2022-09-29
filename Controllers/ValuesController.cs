@@ -48,6 +48,7 @@ namespace Dockersampleconfig.Controllers
             l.Add("Final Modification");
             l.Add("CTS CDX0102 Data Added");
             l.Add("New CDX0102 modified");
+            l.Add("EY Data Added");
             return l;
         }
     }
